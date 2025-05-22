@@ -1,4 +1,10 @@
-# FIFA World Cup Data Insights
+# FIFA World Cup Data Exploration
 
 ## Overview
-This project explores the FIFA World Cup dataset to uncover key trends, statistics, and factors influencing team performance across different tournaments. By analyzing historical data and match results, we aim to provide valuable insights into patterns of success and competition dynamics.
+This project provides an in-depth exploration of FIFA World Cup data, analyzing key trends, statistics, and performance factors across different tournaments. By examining historical records and match results, we aim to uncover insights into team strategies, success patterns, and competition dynamics.
+
+## Dataset
+The dataset includes:
+- Comprehensive records of all FIFA World Cup tournaments
+- Detailed match results and scores
+- Performance metrics and statistical breakdowns
